@@ -1,0 +1,17 @@
+.register-card {
+  width: 400px;
+  margin: 50px auto;
+}
+
+.register-title {
+  text-align: center;
+}
+
+.register-form {
+  max-width: 400px;
+  margin: 0px auto;
+}
+
+.a-link {
+  float: right;
+}

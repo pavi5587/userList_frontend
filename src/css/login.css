@@ -1,0 +1,19 @@
+.login-card {
+  width: 400px;
+  margin: 140px auto;
+}
+
+.login-title {
+  text-align: center;
+}
+
+.login-form {
+  max-width: 350px;
+}
+
+.a-link {
+  float: right;
+  color: #1976d2;
+  cursor: pointer;
+  font-weight: bold;
+}
